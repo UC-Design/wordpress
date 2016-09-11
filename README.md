@@ -1,0 +1,2 @@
+# wordpress
+Notes about Wordpress
